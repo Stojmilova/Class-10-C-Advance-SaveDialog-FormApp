@@ -1,0 +1,10 @@
+C:\Users\Stojmilova\Desktop\Homework -Class 10-SaveDialog-FormApp\Class10\BooksProvider\bin\Debug\BooksProvider.dll
+C:\Users\Stojmilova\Desktop\Homework -Class 10-SaveDialog-FormApp\Class10\BooksProvider\bin\Debug\BooksProvider.pdb
+C:\Users\Stojmilova\Desktop\Homework -Class 10-SaveDialog-FormApp\Class10\BooksProvider\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Stojmilova\Desktop\Homework -Class 10-SaveDialog-FormApp\Class10\BooksProvider\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Stojmilova\Desktop\Homework -Class 10-SaveDialog-FormApp\Class10\BooksProvider\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Stojmilova\Desktop\Homework -Class 10-SaveDialog-FormApp\Class10\BooksProvider\obj\Debug\BooksProvider.csprojAssemblyReference.cache
+C:\Users\Stojmilova\Desktop\Homework -Class 10-SaveDialog-FormApp\Class10\BooksProvider\obj\Debug\BooksProvider.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\Homework -Class 10-SaveDialog-FormApp\Class10\BooksProvider\obj\Debug\BooksProvider.csproj.CopyComplete
+C:\Users\Stojmilova\Desktop\Homework -Class 10-SaveDialog-FormApp\Class10\BooksProvider\obj\Debug\BooksProvider.dll
+C:\Users\Stojmilova\Desktop\Homework -Class 10-SaveDialog-FormApp\Class10\BooksProvider\obj\Debug\BooksProvider.pdb
